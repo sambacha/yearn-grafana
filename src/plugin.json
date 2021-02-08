@@ -1,0 +1,41 @@
+{
+  "$schema": "https://raw.githubusercontent.com/grafana/grafana/master/docs/sources/developers/plugins/plugin.schema.json",
+  "type": "datasource",
+  "name": "yearn-finance-datasource",
+  "id": "yearn-yearn-finance-datasource",
+  "metrics": true,
+  "info": {
+    "description": "datasource for yearn finance vaults",
+    "author": {
+      "name": "yearn finance contributors",
+      "url": "yearn.finance"
+    },
+    "keywords": [
+      "yearn finance",
+      "ethereum",
+      "defi",
+      "cryptocurrency"
+    ],
+    "logos": {
+      "small": "img/logo.svg",
+      "large": "img/logo.svg"
+    },
+    "links": [
+      {
+        "name": "Website",
+        "url": "https://github.com/grafana/grafana-starter-datasource"
+      },
+      {
+        "name": "License",
+        "url": "https://github.com/grafana/grafana-starter-datasource/blob/master/LICENSE"
+      }
+    ],
+    "screenshots": [],
+    "version": "%VERSION%",
+    "updated": "%TODAY%"
+  },
+  "dependencies": {
+    "grafanaDependency": ">=7.0.0",
+    "plugins": []
+  }
+}
