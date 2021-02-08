@@ -1,8 +1,8 @@
-# Grafana Data Source Plugin Template
+# Grafana Data Source Plugin 
 
 [![Build](https://github.com/grafana/grafana-starter-datasource/workflows/CI/badge.svg)](https://github.com/grafana/grafana-starter-datasource/actions?query=workflow%3A%22CI%22)
 
-This template is a starting point for building Grafana Data Source Plugins
+Yearn Finance Grafana Data Source Plugins
 
 ## What is Grafana Data Source Plugin?
 
