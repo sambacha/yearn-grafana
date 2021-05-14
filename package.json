@@ -17,7 +17,7 @@
     "@grafana/ui": "latest",
     "@types/lodash": "latest",
     "@testing-library/jest-dom": "5.11.9",
-    "@testing-library/react": "11.2.6"
+    "@testing-library/react": "11.2.7"
   },
   "engines": {
     "node": ">=14"
